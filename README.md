@@ -5,5 +5,5 @@ Results from API
 # Thanks To 
 
 - Kuhong
-- Arrugaz
+- Arugaz
 
